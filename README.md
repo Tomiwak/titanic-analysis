@@ -8,7 +8,7 @@ This project explores the Titanic disaster dataset to uncover patterns and facto
 - **requirements.txt**: List of Python libraries needed for the analysis.
 
 ## 🛠️ Technologies Used
-- Python: pandas, matplotlib, seaborn, numpy, scikit-learn
+- Python: pandas, matplotlib, seaborn, numpy
 - Jupyter Notebook for interactive analysis and visualization
 
 ## 🎯 Project Objectives
@@ -21,7 +21,7 @@ This project explores the Titanic disaster dataset to uncover patterns and facto
 ## 📈 Results and Insights
 - **Key Trends:** Higher survival rates for women and children, and lower rates for third-class passengers.
 - **Patterns:** Correlation between survival and passenger class, family size, and embarkation port.
-- **Insights:** First-class passengers and females had a significant survival advantage, while large families had lower chances.
+- **Insights:** First-class passengers and females had a significant survival advantage.
 
 ## 📝 Author
 - Akinwole Enoch
